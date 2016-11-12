@@ -14,7 +14,7 @@ Download them and load them into Plover as .json dictionaries.
 - braille.json
     - My starter dictionary for steno-based Braille input.
 - smalldict.json
-    - Starter dictionary.
+    - Starter dictionary Mirabai gave me as a template (not actively updated or used).
 - stan-italiano.json
     -  Dictionary I started when I was doing an Italian class. Not very developed.
 - stanespanol.json
