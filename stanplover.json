@@ -116,6 +116,7 @@
 "ABG/PWHRAU": "ActBlue",
 "ABGS/EUF": "Arxiv",
 "AEBGD/WAURD": "Academy Award",
+"AEFRGS": "{#equal}{^ ^}() => \\{{^\n^}{^}",
 "AEG/*UDZ/HROBGS": "AGENCY_LOCATION",
 "AEPBT/TKPREFPBTS": "antidepressants",
 "AEPBT/TKPWREFPBT": "antidepressant",
@@ -4194,6 +4195,7 @@
 "TPOEFRT/KHURS": "forfeitures",
 "TPOEPBSZ": "offenses",
 "TPOERLGD": "foldering",
+"TPOEUPBGS": "function() \\{{^\n^}{#command(left)}{#up}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{^ ^}{^}",
 "TPOPBSZ": "offenses",
 "TPOR/KWRAEU": "Fourier",
 "TPOR/SHA*D": "foreshadowed",
@@ -4298,6 +4300,7 @@
 "TRAEFS": "travis",
 "TRAELT": "the reality",
 "TRAEUPS": "traipse",
+"TRAO*EBGS": "{^ ^}{#equal}{#equal}{#equal}{^ ^}",
 "TRAO*EUBD": "TriBeCa",
 "TRAO*EZ": "Tereza",
 "TRAOEUFBG": "Triassic",
@@ -4593,5 +4596,6 @@
 "WUPB/THEURD": "one-third",
 "WURG": "Williamsburg",
 "`{^}": "PW*BGT",
+"class/extends/Component/{": "{",
 "}": "}"
 }
