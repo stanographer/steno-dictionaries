@@ -18,6 +18,7 @@
 "TPHROEURP": "for (let i = 0; i < .length; i++) \\{{^}{^\n^}{^}{#up}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}",
 "TPOEUPBGS": "function() \\{{^\n^}{#command(left)}{#up}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{^ ^}{^}",
 "TPRO*EUPL": "{#right}{#right}{^ ^}from '{^}",
+"TPRO*UPL": "{#right}{^ ^}{^}from",
 "TRAO*EBGS": "{^ ^}{#equal}{#equal}{#equal}",
 "TRAO*ELS": "{^ ^}{#equal}{#equal}{#equal}{^ ^}"
 }
