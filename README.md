@@ -23,6 +23,8 @@ Download them and load them into Plover as .json dictionaries.
     - My main English dictionary.
 - stanplover.json
     - Additional entries to correct formatting errors caused by RTF -> JSON conversion.
+- usage_stats.txt
+    - Shows usage statistics to help learners (or anyone, really) analyze my dictionary usage patterns.
 
 
 ### License
