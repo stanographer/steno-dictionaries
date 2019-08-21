@@ -16,6 +16,7 @@
 "KWHRERBGT": "querySelector",
 "KWRAEURT": "itar",
 "KWROEURT": "iter",
+"PRAEFZ": "{#command(option(shift(p)))}",
 "PWHRO*ELD": "{#command(b)}",
 "SKHRO*EUG": "console.log('');{#left}{#left}{#left}{^}",
 "STAO*EUT": "setState",
