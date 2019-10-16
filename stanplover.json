@@ -3734,6 +3734,7 @@
 "TKHRAOEUPB": ";",
 "TKHRAOURBL": "delusional",
 "TKHRARZ": "{#Alt_L(left)}{^}${#Alt_L(right)}",
+"TKHRAUL": "{#command(a)}{#backspace}",
 "TKHRET": "{#delete}",
 "TKHREUPLT": "delimit",
 "TKHREURPLT": "delimiter",
