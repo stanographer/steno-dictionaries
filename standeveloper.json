@@ -37,6 +37,7 @@
 "STHAO*EUT": "this.setState",
 "STKPWHR-B": "{^}{>}git branch",
 "STKPWHR-P": "{^}{>}git push{#return}",
+"STKPWHR-RB": "{^}{>}git push{#return}",
 "STKPWHRAUTS": "{^}{>}git status",
 "SWR-RBGS": "{^\n^}{^\n^}{^}ZEN:{-|}",
 "T-RBGS": "{^\n^}{^\n^}{^}TESSA:{-|}",
