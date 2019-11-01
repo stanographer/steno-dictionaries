@@ -48,6 +48,7 @@
 "TK*D": "__{^}",
 "TK*DZ": "{^}__",
 "TKA*EUPS": "$ds-space-{^}",
+"TKO*EUPZ": "$ds-space-{^}",
 "TKO*UBLS": "{#space}{#space}{#left}",
 "TKPWHRO*EPB": "{^}git clone https://github.com/stanographer/upwordly-backend.git",
 "TPHE/KAOED": "Nekeed",
