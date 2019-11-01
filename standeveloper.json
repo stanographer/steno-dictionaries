@@ -1,4 +1,5 @@
 {
+":": ".",
 "AEFRGS": "{^ ^}{#equal}{^ ^}() => \\{{^\n^}{^}",
 "KA*UPBTS": "const",
 "KERBGS": "{^\n^}{^\n^}{^}KERRI:{-|}",
@@ -25,6 +26,7 @@
 "RO*EFLT": "Revolt",
 "SKHRO*EUG": "console.log('');{#left}{#left}{#left}{^}",
 "SKWRAEURPBD": "gerund",
+"SPA*EZ": "$space{^}",
 "SPO*EULT": "{#command(space)}",
 "SPOEULT": "{#command(space)}",
 "SPWOEUG": "indigo",
@@ -45,6 +47,7 @@
 "THAO*EUT": "this.state",
 "TK*D": "__{^}",
 "TK*DZ": "{^}__",
+"TKA*EUPS": "$ds-space-{^}",
 "TKO*UBLS": "{#space}{#space}{#left}",
 "TKPWHRO*EPB": "{^}git clone https://github.com/stanographer/upwordly-backend.git",
 "TPHE/KAOED": "Nekeed",
