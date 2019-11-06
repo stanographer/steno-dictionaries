@@ -50,6 +50,7 @@
 "TKA*EUPS": "$ds-space-{^}",
 "TKO*EUPZ": "$ds-space-{^}",
 "TKO*UBLS": "{#space}{#space}{#left}",
+"TKPWAUTS": "{^}{>}git status",
 "TKPWHRO*EPB": "{^}git clone https://github.com/stanographer/upwordly-backend.git",
 "TPHE/KAOED": "Nekeed",
 "TPHROEURP": "for (let i = 0; i < .length; i++) \\\\{{^}{^\n^}{^}{#up}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}",
