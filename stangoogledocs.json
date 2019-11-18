@@ -1,4 +1,5 @@
 {
+"P*PBDZ": "{*(£c)}",
 "SP*UZ": "{*<}{^}:{#option(left)}{#option(left)}{^\n\n^}{#command(right)}{#return}{^}{-|}",
 "SPUZ": "{*<}{^}:{#option(left)}{#option(left)}{^\n\n^}{#command(right)}{^ ^}{-|}",
 "STP*UZ": "{*<}{^}:{^\n^}{^}{-|}",
