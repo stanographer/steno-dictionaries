@@ -13,6 +13,7 @@
 "KPWRAERBGT": "{^}{>}import React from 'react';{^}{>}",
 "KPWROEUPS": "{^}{>}import PropTypes from 'prop-types';{^}{>}",
 "KRAO*ED": "{^}{>}cd",
+"KRAO*ED/P-P/P-P": "{^}{>}cd ..",
 "KROEUPGT": "cross-site-scripting",
 "KW-RP": "{^}('{^}",
 "KWHR*ERBGT": "querySelector('');{#left}{#left}{#left}{^}",
