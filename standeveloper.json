@@ -98,6 +98,8 @@
 "TPOEUPBGS": "function() \\{{^\n^}{#command(left)}{#up}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{#right}{^ ^}{^}",
 "TPRO*EUPL": "{#right}{#right}{^ ^}from '{^}",
 "TPRO*UPL": "{#right}{^ ^}{^}from",
+"TPW*G": "{#command(option(right))}",
+"TPW*R": "{#command(option(left))}",
 "TRAO*EBGS": "{^ ^}{#equal}{#equal}{#equal}",
 "TRAO*ELS": "{^ ^}{#equal}{#equal}{#equal}{^ ^}"
 }
