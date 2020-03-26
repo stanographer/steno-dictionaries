@@ -50,6 +50,7 @@
 "SPO*EULT": "{#command(space)}",
 "SPOEULT": "{#command(space)}",
 "SPW*L": "{^}:{^}",
+"SPW*RBL": "{^}{>>}vox k8s shell",
 "SPWAO*EPB": "{^}{>}cd Developer/sbn",
 "SPWOEUG": "indigo",
 "SPWR*BGTS": "{^}[]{#left}{^}",
