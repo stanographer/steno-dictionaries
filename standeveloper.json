@@ -3,6 +3,7 @@
 ":": ".",
 "AEFRGS": "{^ ^}{#equal}{^ ^}() => \\{{^\n^}{^}",
 "KA*UPBTS": "const",
+"KAO*UBL": "kubectl",
 "KERBGS": "{^\n^}{^\n^}{^}KERRI:{-|}",
 "KHR*EPBDZ": "class extends React.Component \\{{^\n^}{#up}{#right}{#right}",
 "KHREPBDZ": "class extends React.Component \\\\{{^\n^}{#up}{#right}{#right}{#right}{^ ^}",
@@ -36,6 +37,7 @@
 "PRAEFZ": "{#command(option(shift(p)))}",
 "PW*BGT": "`{^}",
 "PWA*EPZ": "{#option(backspace)}",
+"PWHR*EBG": "bundle exec",
 "PWHRO*ELD": "{#command(b)}",
 "PWHROUR": "{^}{>}background-color:",
 "R*ES/O/TKPWRAEUD": "restograde",
@@ -53,6 +55,7 @@
 "SPW*L": "{^}:{^}",
 "SPW*RBL": "{^}{>>}vox k8s shell",
 "SPWAO*EPB": "{^}{>}cd Developer/sbn",
+"SPWHR*EBG": "exec",
 "SPWOEUG": "indigo",
 "SPWR*BGTS": "{^}[]{#left}{^}",
 "SR*EUPLT": "{^}{>}:q{#return}",
@@ -85,6 +88,7 @@
 "TK*DZ": "{^}__",
 "TK*ERB": "{^}.erb",
 "TK*UP": "{^}{>}docker-compose up",
+"TK*URBD": "{^}FORCE_CACHING=1 docker-compose up",
 "TKA*EUPS": "$ds-space-{^}",
 "TKAO*EB/ST*UP": "{^}{>>}rake db:setup",
 "TKO*EUB": "{^}{>}docker-compose build",
@@ -128,5 +132,6 @@
 "TPW*R": "{#command(option(left))}",
 "TPWO*T": "{^}{>>}cfbot",
 "TRAO*EBGS": "{^ ^}{#equal}{#equal}{#equal}",
-"TRAO*ELS": "{^ ^}{#equal}{#equal}{#equal}{^ ^}"
+"TRAO*ELS": "{^ ^}{#equal}{#equal}{#equal}{^ ^}",
+"bundle/exec": "exec"
 }

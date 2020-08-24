@@ -1,0 +1,242 @@
+{
+  "body": {
+    "find": ".article-content",
+    "return": {
+      "map": {
+        "ignore": [
+          "script",
+          "noscript",
+          "style",
+          ".lede-image-data",
+          ".single-image-figcaption.attribution",
+          "form",
+          "input",
+          "nav",
+          "fieldset",
+          "label",
+          "legend",
+          "textarea",
+          "select",
+          "option",
+          "optgroup",
+          "button",
+          "datalist",
+          "output",
+          "svg",
+          "path",
+          "g"
+        ],
+        "allow": {
+          ".image-container": {
+            "name": "image",
+            "return": {
+              "object": {
+                "src": {
+                  "find_json": "script[type=\"application/ld+json\"]",
+                  "return": { "fetch": "contentUrl" }
+                },
+                "credit": {
+                  "find_json": "script[type=\"application/ld+json\"]",
+                  "return": { "fetch": "author" }
+                },
+                "caption": {
+                  "find_json": "script[type=\"application/ld+json\"]",
+                  "return": { "fetch": "caption" }
+                },
+                "position_class": {
+                  "self": true,
+                  "return": { "attribute": "class" }
+                }
+              }
+            }
+          },
+          "aside.pullquote": { "name": "pullquote" },
+          "blockquote.blockquote": {
+            "name": "blockquote"
+          },
+          "blockquote.twitter-tweet": {
+            "name": "placeholder",
+            "return": {
+              "object": {
+                "type": "oembed",
+                "data": {
+                  "object": {
+                    "url": {
+                      "find": "> a:last-child, p:last-child a, p + p a",
+                      "return": { "attribute": "href" }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "blockquote.instagram-media": {
+            "name": "placeholder",
+            "return": {
+              "object": {
+                "type": "oembed",
+                "data": {
+                  "object": {
+                    "url": {
+                      "find": "p a[href]",
+                      "return": { "attribute": "href" }
+                    },
+                    "provider_name": "instagram"
+                  }
+                }
+              }
+            }
+          },
+          ".divider": { "name": "horizontal_rule" },
+          ".embedly-embed": {
+            "name": "placeholder",
+            "return": {
+              "object": {
+                "type": "oembed",
+                "data": {
+                  "object": {
+                    "url": { "attribute": "src,data-src" }
+                  }
+                }
+              }
+            }
+          },
+          ".iframe-embed": {
+            "name": "placeholder",
+            "return": {
+              "object": {
+                "type": "pym",
+                "data": { "attribute": "src,data-embed-url" }
+              }
+            }
+          },
+          ".related-container": {
+            "name": "readmore",
+            "return": {
+              "object": {
+                "links": {
+                  "parent": true,
+                  "return": {
+                    "find_all": ".related-container",
+                    "return": {
+                      "object": {
+                        "title": {
+                          "find": ".headline",
+                          "return": { "inner": "text" }
+                        },
+                        "url": {
+                          "find": "a[data-track-component-name=\"related\"]",
+                          "return": { "attribute": "href" }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "iframe": {
+            "name": "placeholder",
+            "return": {
+              "object": {
+                "type": "oembed",
+                "data": {
+                  "object": {
+                    "url": { "attribute": "src,data-src" }
+                  }
+                }
+              }
+            }
+          },
+          "p": { "name": "paragraph" },
+          "a": {
+            "name": "link",
+            "attributes": { "link": { "attribute": "href" } }
+          },
+          "strong, b, bold": {
+            "name": "bold",
+            "attributes": { "bold": true }
+          },
+          "em, i": {
+            "name": "italic",
+            "attributes": { "italic": true }
+          },
+          "small": {
+            "name": "small",
+            "attributes": { "small": true }
+          },
+          "sup": {
+            "name": "superscript",
+            "attributes": { "superscript": true }
+          },
+          "sub": {
+            "name": "subscript",
+            "attributes": { "subscript": true }
+          },
+          "br": {
+            "name": "line_break"
+          },
+          "hr": {
+            "name": "horizontal_rule"
+          },
+          "s, strike, del": {
+            "name": "strike",
+            "attributes": { "strike": true }
+          },
+          "h1": { "name": "header1" },
+          "h2": { "name": "header2" },
+          "h3": { "name": "header3" },
+          "h4": { "name": "header4" },
+          "h5": { "name": "header5" },
+          "h6": { "name": "header5" }
+        }
+      }
+    }
+  }
+}
+
+
+People justice courts
+people José Serrano, Ruben Diaz senior
+
+IMMIGRATION
+ 
+PEOPLE
+ 
+BROOKLYN
+
+
+HOUSING
+ 
+PEOPLE
+ 
+PUBLIC HOUSING
+
+
+QUEENS
+ 
+PEOPLE
+ 
+GOVERNMENT
+
+
+QUEENS
+ 
+PEOPLE
+ 
+JUSTICE
+
+
+QUEENS
+ 
+PEOPLE
+ 
+JUSTICE
+
+
+
+BROOKLYN
+ 
+PEOPLE
+ 
+JUSTICE
