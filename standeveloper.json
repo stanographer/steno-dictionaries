@@ -8,6 +8,7 @@
 "KHR*EPBDZ": "class extends React.Component \\{{^\n^}{#up}{#right}{#right}",
 "KHREPBDZ": "class extends React.Component \\\\{{^\n^}{#up}{#right}{#right}{#right}{^ ^}",
 "KHRO*EURBS": "\\\\{{^ ^}{^ ^}\\\\}{#left}{#left}{^}",
+"KPH-PLT": "{^}#",
 "KPHO*EUPBD": "\\{^\\}\\{>\\}{^}",
 "KPHOEUPBD": "\\{^\\}\\{>\\}{^}",
 "KPHROUPLT": "componentWillMount",
