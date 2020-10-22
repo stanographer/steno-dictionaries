@@ -2459,6 +2459,7 @@
 "S*RS": "src",
 "S*UB/PABG": "SUBPAC",
 "S*UBL": "subl",
+"S*UDZ": "{MODE:SET_SPACE:_}",
 "S*UPBT": "Sutton",
 "S*UPBT/KAPB/TAOE/TPHA": "Sunset Cantina",
 "S-D": "{^icide}",
