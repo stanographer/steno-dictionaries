@@ -56,7 +56,7 @@
 "SAO*RBGS": "ANDREW:{#option(left)}{#option(left)}{^\n\n^}{#command(right)}{{^\n^}{^}{-|}",
 "SHEUPB/SKWRAPBG": "Xinjiang",
 "SKWR-RBGS": "{MODE:CAPS}{^\n\n^}{^}Q:{^\n^}{^}",
-"SKWRAO": "{^\n^}{^\n^}{^}-{^ ^}{#backspace}{-|}",
+"SKWRAO": "{^\n^}{^\n^}{^}- {-|}",
 "SKWROERBGS": "{^\n\n^}{^}MR. BIDEN:{^\n^}{^}{-|}",
 "SP*UZ": "{*<}{^}:{#option(left)}{#option(left)}{^\n\n^}{#command(right)}{#return}{^}{-|}",
 "SP-PBDZ": "{^\n\n^}{^\t^}{^}[ Candidate Responds ]{-|}",
