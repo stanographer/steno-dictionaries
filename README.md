@@ -69,32 +69,20 @@ In general, I use a ton of shape outlines. This is to say that the individual le
 These may be combined with phrase enders in grammatically correct combinations.
 - *i.e. `KP-` (keep) + `*T` (it) => `KP*T` (keep it).*
 
-| Phrase           | Steno       |
-| ---------------- | ----------- |
-| about            | `KPW-`      |
-| and              | `SKP-`      |
-| and we           | `SKPWE-`    |
-| before           | `PWHR-`     |
-| bring            | `PWR-`      |
-| but              | `PWH-`      |
-| but we           | `PWHAOE-`   |
-| because          | `SKPR-`     |
-| because we       | `SKPWRE-`   |
-| did              | `TK-`       |
-| does             | `STK-`      |
-| for              | `TPR-`      |
-| had              | `H-`        |
-| has              | `HA-`       |
-| in               | `TPH-`      |
-| just             | `SKWR-`     |
-| keep             | `KP-`       |
-| somewhere        | `SWR-`      |
-| the only         | `TW-`       |
-| what             | `WHA-`      |
-| when             | `WH-`       |
-| where            | `WR-`       |
-| whether          | `WHR-`      |
-| will             | `HR-`       |
+## Phrases
+
+| Phrase       | Steno       | Phrase       | Steno       | Phrase        | Steno       |
+| ------------ | ----------- | ------------ | ----------- | ------------- | ----------- |
+| about        | `KPW-`      | did          | `TK-`       | the only      | `TW-`       |
+| and          | `SKP-`      | does         | `STK-`      | what          | `WHA-`      |
+| and we       | `SKPWE-`    | for          | `TPR-`      | when          | `WH-`       |
+| before       | `PWHR-`     | had          | `H-`        | where         | `WR-`       |
+| bring        | `PWR-`      | has          | `HA-`       | whether       | `WHR-`      |
+| but          | `PWH-`      | in           | `TPH-`      | will          | `HR-`       |
+| but we       | `PWHAOE-`   | just         | `SKWR-`     |               |             |
+| because      | `SKPR-`     | keep         | `KP-`       |               |             |
+| because we   | `SKPWRE-`   | somewhere    | `SWR-`      |               |             |
+
 
 ## Right-hand Phrase Enders
 Likewise, you may combine these with grammatical phrase beginners to form phrases.
