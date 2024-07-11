@@ -80,15 +80,15 @@ These may be combined with phrase enders in grammatically correct combinations.
 
 | Phrase       | Steno       | Phrase       | Steno       | Phrase        | Steno       |
 | ------------ | ----------- | ------------ | ----------- | ------------- | ----------- |
-| about        | `KPW-`      | did          | `TK-`       | the only      | `TW-`       |
-| and          | `SKP-`      | does         | `STK-`      | what          | `WHA-`      |
-| and we       | `SKPWE-`    | for          | `TPR-`      | when          | `WH-`       |
-| before       | `PWHR-`     | had          | `H-`        | where         | `WR-`       |
-| bring        | `PWR-`      | has          | `HA-`       | whether       | `WHR-`      |
-| but          | `PWH-`      | in           | `TPH-`      | will          | `HR-`       |
-| but we       | `PWHAOE-`   | just         | `SKWR-`     |               |             |
-| because      | `SKPR-`     | keep         | `KP-`       |               |             |
-| because we   | `SKPWRE-`   | somewhere    | `SWR-`      |               |             |
+| about        | `KPW-`      | did          | `TK-`       | somewhere    | `SWR-`       |
+| and          | `SKP-`      | does         | `STK-`      | the only     | `TW-`        |
+| and we       | `SKPWE-`    | for          | `TPR-`      | what         | `WHA-`       |
+| before       | `PWHR-`     | had          | `H-`        | when         | `WH-`        |
+| bring        | `PWR-`      | has          | `HA-`       | where        | `WR-`        |
+| but          | `PWH-`      | in           | `TPH-`      | whether      | `WHR-`       |
+| but we       | `PWHAOE-`   | just         | `SKWR-`     | will         | `HR-`        |
+| because      | `SKPR-`     | keep         | `KP-`       |              |              |
+| because we   | `SKPWRE-`   | something    | `STKPW-`    |              |              |
 
 
 ## Right-hand Phrase Enders
