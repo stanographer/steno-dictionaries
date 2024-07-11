@@ -153,58 +153,43 @@ Likewise, you may combine these with grammatical phrase beginners to form phrase
 
 This is a list of prefixes and suffixes that I use to build words. Yes, I have a lot of entries with these built in to them but I keep these strokes dedicated so that even if I don't have them defined exactly, they come out either correct or at the very least readable.
 
+Here's the table in two columns:
+
 ### Prefixes
 
-| Prefix                | Steno         |
-| --------------------- | ---------     |
-| anthro-               | `THA*ORP`     |
-| anti-                 | `A*EPBT`      |
-| back-                 | `PWA*BG`      |
-| bio-                  | `PWO*EU`      |
-| chemo-                | `KAO*EPL`     |
-| contra-               | `KRA*`        |
-| de-                   | `TKE`         |
-| dis-                  | `TKEUS`       |
-| endo-                 | `SPWO*`       |
-| giga-                 | `TKPW*EUG`    |
-| in-                   | `EUPB`        |
-| infra-                | `TPRA*E`      |
-| inter-                | `SPWER`       |
-| intra-                | `SPWRA`       |
-| ir-                   | `EUR`         |
-| macro-                | `PHAO*RBG`    |
-| micro-                | `PHAO*EURBG`  |
-| mega-                 | `PHA*EG`      |
-| meta-                 | `PHA*ET`      |
-| mono-                 | `PHO*EPB`     |
-| over-                 | `O*EFR`       |
-| re-                   | `RE`          |
-| sub-                  | `S*UB`        |
-| un-                   | `UPB`         |
-| under-                | `*RB`         |
+| Prefix    | Steno     | Prefix    | Steno       |
+| --------- | --------- | --------- | ----------- |
+| anthro-   | `THA*ORP` | macro-    | `PHAO*RBG`  |
+| anti-     | `A*EPBT`  | micro-    | `PHAO*EURBG`|
+| back-     | `PWA*BG`  | mega-     | `PHA*EG`    |
+| bio-      | `PWO*EU`  | meta-     | `PHA*ET`    |
+| chemo-    | `KAO*EPL` | mono-     | `PHO*EPB`   |
+| contra-   | `KRA*`    | over-     | `O*EFR`     |
+| de-       | `TKE`     | re-       | `RE`        |
+| dis-      | `TKEUS`   | sub-      | `S*UB`      |
+| endo-     | `SPWO*`   | un-       | `UPB`       |
+| giga-     | `TKPW*EUG`| under-    | `*RB`       |
+| in-       | `EUPB`    |           |             |
+| infra-    | `TPRA*E`  |           |             |
+| inter-    | `SPWER`   |           |             |
+| intra-    | `SPWRA`   |           |             |
+| ir-       | `EUR`     |           |             |
+
+Here's the table in two columns:
 
 ### Suffixes
 
-| Suffix                | Steno         |
-| --------------------- | ----------------------- |
-| -able                 | `ABL`                   |
-| -ably                 | `AEBL`                  |
-| -al(s)                | `AL(S)`                 |
-| -ans                  | `A*PBS`                 |
-| -en                   | `-PB`                   |
-| -ence                 | `-PBS`                  |
-| -ial                  | `KWRA*L`                |
-| -ally                 | `AEL`                   |
-| -ality/-alities       | `KWRA*LT(S)`            |
-| -ic                   | `EUBG`                  |
-| -ical                 | `KAL`                   |
-| -ically               | `KAEL`                  |
-| -ite(s)               | `AOEUT(S)`              |
-| -ologic               | `SKWR-BLG`/`SKWR-BG`    |
-| -ological             | `HR-L`                  |
-| -ology/-ologies       | `OLG(S)`                |
-| -ologist              | `O*LGS`                 |
-| -oscopy/-oscopies     | `SKOEUP(S)`             |
+| Suffix           | Steno           | Suffix               | Steno               |
+| ---------------- | --------------- | -------------------- | ------------------- |
+| -able            | `ABL`           | -ic                  | `EUBG`              |
+| -ably            | `AEBL`          | -ical                | `KAL`               |
+| -al(s)           | `AL(S)`         | -ically              | `KAEL`              |
+| -ans             | `A*PBS`         | -ite(s)              | `AOEUT(S)`          |
+| -en              | `-PB`           | -ologic              | `SKWR-BLG`/`SKWR-BG`|
+| -ence            | `-PBS`          | -ological            | `HR-L`              |
+| -ial             | `KWRA*L`        | -ology/-ologies      | `OLG(S)`            |
+| -ally            | `AEL`           | -ologist             | `O*LGS`             |
+| -ality/-alities  | `KWRA*LT(S)`    | -oscopy/-oscopies    | `SKOEUP(S)`         |
 
 ## "Don't", "Didn't," "Could't"
 
