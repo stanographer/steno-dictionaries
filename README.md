@@ -61,7 +61,7 @@ I also have a general pattern I use for Spanish-sounding words. Basically, you a
 
 I use final -DZ to create the gerund or -ing form. But because of how the steno keyboard is laid out, words that end in an -s, -t, or -d, I will drop those and add the -DZ. So the gerund of "break" (breaking) would be `PWRAEUBGDZ`. The gerund of "promise" would be `PROPLDZ` since you can't hit the `-S` at the same time as the `-DZ`.
 
-With the combo `AE`, it can mean I'm disambiguating a homophone or it's a multi-syllabic word. "Rain" is `RAEUPB` but "rainy" is `RAEPB`. "Space" is `SPAEUS` but "spacey" is `SPAES`.
+With the combo `AE`, it can mean I'm disambiguating a homophone or it's a multi-syllabic word. "Rain" is `RAEUPB` but "rainy" is `RAEPB`. "Space" is `SPAEUS` but "spacey" is `SPAES`. "Piece" is `PAOES` but peace is `PAES`.
 
 ## How much do I brief and/or phrase?
 
