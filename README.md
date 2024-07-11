@@ -64,48 +64,57 @@ If I can find a one-stroke gibberish syllable that makes sense for it, I will go
 In general, I use a ton of shape outlines. This is to say that the individual letters pressed are loosely or not at all related to the actual output. There is no mnemonic or any convenient trick to memorizing these. You have to go through the rote practice to turn these from unrelated gibberish to instant recall. Sorry, I don't have any tips or tricks for learning these. You just have to go for it yourself.
 
 ## Right-hand Phrase Enders
-- the = `-T`
-- it = `*T`
-- been = `-B`
-- be = `*B`
-- that = `-LGTS`
-- this = `-TSDZ`
-- can = `-BG`
-- can't = `*BG`
-- can be = `-FRBG`
 
-- could = `-BGD`
-- couldn't = `*BGD`
-- could be = `-FRBGD`
-- have = `-F`
-- 've = `*F`
-- have been = `-FB`
-- 've been = `*FB`
-- has = `-FPLTD`
-- hasn't = `*FPLTD`
+| Phrase        | Steno    | Phrase         | Steno    |
+| ------------- | -------- | -------------- | -------- |
+| been          | `-B`     | some           | `*PLS`   |
+| be            | `*B`     | could          | `-BGD`   |
+| it            | `*T`     | couldn't       | `*BGD`   |
+| like          | `-FPL`   | could be       | `-FRBGD` |
+| the           | `-T`     | have           | `-F`     |
+| that          | `-LGTS`  | 've            | `*F`     |
+| this          | `-TSDZ`  | have been      | `-FB`    |
+| these         | `-RPG`   | 've been       | `*FB`    |
+| those         | `-FBL`   | has            | `-FPLTD` |
+| can           | `-BG`    | hasn't         | `*FPLTD` |
+| can't         | `*BG`    | had            | `-D`     |
+| can be        | `-FRBG`  | 'd             | `*D`     |
+| means         | `-PLS`   | should         | `-RBD`   |
+| should be     | `-RBLG`  | do             | `RPBLGS` |
+| was           | `-FS`    | don't          | `*RPBLGS`|
+| wasn't        | `-FSZ`   | did            | `RPLS`   |
+| were          | `-RP`    | didn't         | `*RPLS`  |
+| weren't       | `*RP`    | does           | `-RBGZ`  |
+| we            | `-FRPBLG`| doesn't        | `*RBGZ`  |
+| would         | `-LD`    | will           | `-L`     |
+| 'd be         | `*BD`    | 'll            | `*L`     |
+| wouldn't      | `*LD`    | won't          | `-FPZ`   |
+| would have    | `*FLD`   | won't be       | `*FPZ`   |
+| would have been| `*FBLD` | knew           | `-PZ`    |
 
-- should = `-RBD`
-- shouldn't = `*RBD`
-- should be = `-RBLG`
-- would = `-LD`
-- 'd be = `*BD`
-- wouldn't = `*LD`
-- would have = `*FLD`
-- would have been = `*FBLD`
+# Left-hand Phrase Starters
 
-- won't = `-FPZ`
-- won't be = `*FPZ`
+| Phrase           | Steno       |
+| ---------------- | ----------- |
+| about            | `KPW-`      |
+| ---------------- | ----------- |
+| and              | `SKP-`      |
+| and we           | `SKPWE-`    |
+| ---------------- | ----------- |
+| but              | `PWH-`      |
+| but we           | `PWHAOE-`   |
+| ---------------- | ----------- |
+| because          | `SKPR-`     |
+| because we       | `SKPWRE-`   |
+| ---------------- | ----------- |
+| for              | `TPR-`      |
+| ---------------- | ----------- |
+| the only         | `TW-`       |
+| ---------------- | ----------- |
+| will             | `HR-`       |
 
-- knew = `-PZ`
+# "Don't", "Didn't," "Could't"
 
-- do = `RPBLGS`
-- don't = `*RPBLGS`
-- did = `RPLS`
-- didn't = `*RPLS`
-- does = `-RBGZ`
-- doesn't = `*RBGZ`
 
-- will = `-L`
-- 'll = `*L`
 
 ** More to come! **
