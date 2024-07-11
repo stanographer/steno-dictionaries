@@ -63,7 +63,42 @@ If I can find a one-stroke gibberish syllable that makes sense for it, I will go
 # Arbitrary Shapes
 In general, I use a ton of shape outlines. This is to say that the individual letters pressed are loosely or not at all related to the actual output. There is no mnemonic or any convenient trick to memorizing these. You have to go through the rote practice to turn these from unrelated gibberish to instant recall. Sorry, I don't have any tips or tricks for learning these. You just have to go for it yourself.
 
+# Theory Notes
+
+# Left-hand Phrase Starters
+These may be combined with phrase enders in grammatically correct combinations.
+*i.e. `KP-` (keep) + `*T` (it) => `KP*T` (keep it).*
+
+| Phrase           | Steno       |
+| ---------------- | ----------- |
+| about            | `KPW-`      |
+| and              | `SKP-`      |
+| and we           | `SKPWE-`    |
+| before           | `PWHR-`     |
+| bring            | `PWR-`      |
+| but              | `PWH-`      |
+| but we           | `PWHAOE-`   |
+| because          | `SKPR-`     |
+| because we       | `SKPWRE-`   |
+| did              | `TK-`       |
+| does             | `STK-`      |
+| for              | `TPR-`      |
+| had              | `H-`        |
+| has              | `HA-`       |
+| in               | `TPH-`      |
+| just             | `SKWR-`     |
+| keep             | `KP-`       |
+| somewhere        | `SWR-`      |
+| the only         | `TW-`       |
+| what             | `WHA-`      |
+| when             | `WH-`       |
+| where            | `WR-`       |
+| whether          | `WHR-`      |
+| will             | `HR-`       |
+
 ## Right-hand Phrase Enders
+Likewise, you may combine these with grammatical phrase beginners to form phrases.
+*i.e. `SKPWRE-` (because we) + `-FRBGD` (could be) => `SKPWREFRBGD` (because we could be).*
 
 | Phrase        | Steno    | Phrase         | Steno    |
 | ------------- | -------- | -------------- | -------- |
@@ -91,21 +126,6 @@ In general, I use a ton of shape outlines. This is to say that the individual le
 | wouldn't      | `*LD`    | won't          | `-FPZ`   |
 | would have    | `*FLD`   | won't be       | `*FPZ`   |
 | would have been| `*FBLD` | knew           | `-PZ`    |
-
-# Left-hand Phrase Starters
-
-| Phrase           | Steno       |
-| ---------------- | ----------- |
-| about            | `KPW-`      |
-| and              | `SKP-`      |
-| and we           | `SKPWE-`    |
-| but              | `PWH-`      |
-| but we           | `PWHAOE-`   |
-| because          | `SKPR-`     |
-| because we       | `SKPWRE-`   |
-| for              | `TPR-`      |
-| the only         | `TW-`       |
-| will             | `HR-`       |
 
 # "Don't", "Didn't," "Could't"
 
