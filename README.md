@@ -97,20 +97,14 @@ In general, I use a ton of shape outlines. This is to say that the individual le
 | Phrase           | Steno       |
 | ---------------- | ----------- |
 | about            | `KPW-`      |
-| ---------------- | ----------- |
 | and              | `SKP-`      |
 | and we           | `SKPWE-`    |
-| ---------------- | ----------- |
 | but              | `PWH-`      |
 | but we           | `PWHAOE-`   |
-| ---------------- | ----------- |
 | because          | `SKPR-`     |
 | because we       | `SKPWRE-`   |
-| ---------------- | ----------- |
 | for              | `TPR-`      |
-| ---------------- | ----------- |
 | the only         | `TW-`       |
-| ---------------- | ----------- |
 | will             | `HR-`       |
 
 # "Don't", "Didn't," "Could't"
