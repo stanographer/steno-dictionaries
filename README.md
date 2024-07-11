@@ -1,39 +1,38 @@
-# Stanley's Steno Dictionaries
+# 🚀 Stanley's Steno Dictionaries 🚀
 
-### Why
+You've found my dictionary repository! The main dictionary that I update the most is the namesake one, `stanmain.json`. I will update this readme to include more but I'll start with this. Many on the Plover Discord have mentioned that this repo is just dictionaries with no explanation so I'm going to attempt to explain what's going on in my head in general terms and hopefully it'll help whoever is reading this to figure out what the hell it is I'm thinking when seeing my outlines.
+
+# Why
 
 For people who want to see my dictionaries.
 
-### How
+# How
 
-Download them and load them into Plover as .json dictionaries.
+Download them and load them into Plover as `.json` dictionaries.
 
+# Contents
 
-### Contents
-
-- braille.json
+- `braille.json`
     - My starter dictionary for steno-based Braille input.
-- smalldict.json
+- `captioning.json`
+    - Some overrides for captioning-specific stuff like making new lines after every ending punctuation mark.
+- `smalldict.json`
     - Starter dictionary Mirabai gave me as a template (not actively updated or used).
-- stan-italiano.json
+- `stan-italiano.json`
     -  Dictionary I started when I was doing an Italian class. Not very developed.
-- stanespanol.json
+- `stanespanol.json`
     - Main Spanish steno dictionary.
-- stanmain.json
+- `stanmain.json`
     - My main English dictionary.
-- stanplover.json
+- `stanplover.json`
     - Additional entries to correct formatting errors caused by RTF -> JSON conversion.
-- usage_stats.txt
+- `usage_stats.txt`
     - Shows usage statistics to help learners (or anyone, really) analyze my dictionary usage patterns.
+    - Hasn't been updated in a while, though.
 
-
-### License
+## License
 
 Don't care.
-
-# Stanley's Dictionaries
-
-You've found my dictionary repository! The main dictionary that I update the most is the namesake one, `stanmain.json`. I will update this readme to include more but I'll start with this. Many on the Plover Discord have mentioned that this repo is just dictionaries with no explanation so I'm going to attempt to explain what's going on in my head in general terms and hopefully it'll help whoever is reading this to figure out what the hell it is I'm thinking when seeing my outlines.
 
 # 📚 General History 📚
 
