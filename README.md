@@ -109,46 +109,45 @@ Likewise, you may combine these with grammatical phrase beginners to form phrase
 | could              | `-BGD`    | get                 | `-GT`     | should           | `-RBD`    |
 | couldn't           | `*BGD`    | go                  | `-G`      | should be        | `-RBLG`   |
 | find               | `-FPBD`   | got                 | `-GTD`    | some             | `*PLS`    |
-| had                | `-D`      | had been            | `-FBS`    | that             | `-LGTS`   |
-| hasn't             | `*FPLTD`  | have                | `-F`      | the              | `-T`      |
-| have been          | `-FB`     | 've                 | `*F`      | their            | `-BLS`    |
-| 've been           | `*FB`     | have been           | `-FB`     | thing            | `-FRLG`   |
-| has                | `-FPLTD`  | it                  | `*T`      | think            | `-PBG`    |
-| have               | `-F`      | it                  | `*T`      | this             | `-TSDZ`   |
-| it                 | `*T`      | knew                | `-PZ`     | these            | `-RPG`    |
-| it                 | `*T`      | liked               | `-FLD`    | those            | `-FBL`    |
-| know               | `-PZ`     | much                | `-UFP`    | thought          | `-LGT`    |
-| liked              | `-FLD`    | remember            | `-RPL`    | was              | `-FS`     |
-| liked              | `-FLD`    | remembered          | `-RPLD`   | wasn't           | `-FSZ`    |
-| many               | `-PL`     | should              | `-RBD`    | were             | `-RP`     |
-| remember           | `-RPL`    | should be           | `-RBLG`   | weren't          | `*RP`     |
-| remembered         | `-RPLD`   | some                | `*PLS`    | we               | `-FRPBLG` |
-| should             | `-RBD`    | that                | `-LGTS`   | will             | `-L`      |
-| should be          | `-RBLG`   | the                 | `-T`      | 'll              | `*L`      |
+| had                | `-D`      | had been            | `-BD`     | that             | `-LGTS`   |
+| hasn't             | `*FPLTD`  | has                 | `-FPLTD`  | the              | `-T`      |
+| have               | `-F`      | 've                 | `*F`      | their            | `-BLS`    |
+| have been          | `-FB`     | 've been            | `*FB`     | thing            | `-FRLG`   |
+| has been           | `-FBS`    | it                  | `*T`      | think            | `-PBG`    |
+| it                 | `*T`      | liked               | `-FLD`    | this             | `-TSDZ`   |
+| knew               | `-PZ`     | much                | `-UFP`    | these            | `-RPG`    |
+| liked              | `-FLD`    | remember            | `-RPL`    | those            | `-FBL`    |
+| like               | `-FPL`    | remembered          | `-RPLD`   | thought          | `-LGT`    |
+| many               | `-PL`     | should              | `-RBD`    | was              | `-FS`     |
+| means              | `-PLS`    | should be           | `-RBLG`   | wasn't           | `-FSZ`    |
+| much               | `-UFP`    | some                | `*PLS`    | were             | `-RP`     |
+| remember           | `-RPL`    | that                | `-LGTS`   | weren't          | `*RP`     |
+| remembered         | `-RPLD`   | the                 | `-T`      | we               | `-FRPBLG` |
+| should             | `-RBD`    | their               | `-BLS`    | will             | `-L`      |
+| should be          | `-RBLG`   | of their            | `-FBLS`   | 'll              | `*L`      |
 | some               | `*PLS`    | their               | `-BLS`    | won't            | `-FPZ`    |
-| that               | `-LGTS`   | of their            | `-FBLS`   | won't be         | `*FPZ`    |
-| the                | `-T`      | their               | `-BLS`    | would            | `-LD`     |
-| their              | `-BLS`    | thing               | `-FRLG`   | would have       | `*FLD`    |
-| thing              | `-FRLG`   | those               | `-FBL`    | would have been  | `*FBLD`   |
-| this               | `-TSDZ`   | thought             | `-LGT`    | wouldn't         | `*LD`     |
-| these              | `-RPG`    | was                 | `-FS`     | 'd be            | `*BD`     |
-| those              | `-FBL`    | wasn't              | `-FSZ`    |                  |           |
-| thought            | `-LGT`    | were                | `-RP`     |                  |           |
-| was                | `-FS`     | weren't             | `*RP`     |                  |           |
-| wasn't             | `-FSZ`    | we                  | `-FRPBLG` |                  |           |
-| were               | `-RP`     | will                | `-L`      |                  |           |
-| weren't            | `*RP`     | 'll                 | `*L`      |                  |           |
-| we                 | `-FRPBLG` | won't               | `-FPZ`    |                  |           |
-| will               | `-L`      | won't be            | `*FPZ`    |                  |           |
-| 'll                | `*L`      | would               | `-LD`     |                  |           |
-| won't              | `-FPZ`    | would have          | `*FLD`    |                  |           |
-| won't be           | `*FPZ`    | would have been     | `*FBLD`   |                  |           |
-| would              | `-LD`     | wouldn't            | `*LD`     |                  |           |
-| would have         | `*FLD`    | 'd be               | `*BD`     |                  |           |
+| that               | `-LGTS`   | thing               | `-FRLG`   | won't be         | `*FPZ`    |
+| the                | `-T`      | those               | `-FBL`    | would            | `-LD`     |
+| their              | `-BLS`    | thought             | `-LGT`    | would have       | `*FLD`    |
+| thing              | `-FRLG`   | was                 | `-FS`     | would have been  | `*FBLD`   |
+| this               | `-TSDZ`   | wasn't              | `-FSZ`    | wouldn't         | `*LD`     |
+| these              | `-RPG`    | were                | `-RP`     | 'd be            | `*BD`     |
+| those              | `-FBL`    | weren't             | `*RP`     |                  |           |
+| thought            | `-LGT`    | we                  | `-FRPBLG` |                  |           |
+| was                | `-FS`     | will                | `-L`      |                  |           |
+| wasn't             | `-FSZ`    | 'll                 | `*L`      |                  |           |
+| were               | `-RP`     | won't               | `-FPZ`    |                  |           |
+| weren't            | `*RP`     | won't be            | `*FPZ`    |                  |           |
+| we                 | `-FRPBLG` | would               | `-LD`     |                  |           |
+| will               | `-L`      | would have          | `*FLD`    |                  |           |
+| 'll                | `*L`      | would have been     | `*FBLD`   |                  |           |
+| won't              | `-FPZ`    | wouldn't            | `*LD`     |                  |           |
+| won't be           | `*FPZ`    | 'd be               | `*BD`     |                  |           |
+| would              | `-LD`     |                     |           |                  |           |
+| would have         | `*FLD`    |                     |           |                  |           |
 | would have been    | `*FBLD`   |                     |           |                  |           |
 | wouldn't           | `*LD`     |                     |           |                  |           |
 | 'd be              | `*BD`     |                     |           |                  |           |
-
 
 ## "Don't", "Didn't," "Could't"
 
