@@ -37,9 +37,15 @@ You've found my dictionary repository! The main dictionary that I update the mos
 
 # 📚 General History 📚
 
-I originally started learning Phoenix Theory back in 2009 or so. After using that theory for a little while, I decided its approach was not for me, especially after learning about the `R-R`. It's basically a form of a shift key in steno where you would repeatedly use `R-R` to cycle through different steno conflicts. After that, I'd found an online PDF of the Philly Clinic Theory. I found a collection of stock dictionaries on Stenovations' website and saw that there was a stock dictionary for Philly of around 30,000 entries available for download for free on their website. I downloaded it and started retraining to override what I had learned from Phoenix. After I got sufficiently advanced, I bought the Magnum Steno book and that became my ultimate theory source of truth.
+I originally started learning Phoenix Theory back in 2009 or so. After using that theory for a little while, I decided its approach was not for me, especially after learning about the `R-R`. `R-R` is basically a form of a shift key in steno where you would repeatedly use `R-R` to cycle through different steno conflicts. In general, I found Phoenix Theory to be way too verbose even though it was probably one of the most consistent theories I had ever encountered.
 
-If you have no exposure to Magnum Theory, I will tell you it is very abstract. You will find things in there based on phonetics, on English spelling, or based on an arbitrary combo that are meant to be memorized as a shape. Accordingly, my theory is a mish-mash of all three of these principles. My way of writing was never meant to be a formalized theory and you should consider it as a guideline, and not absolute in any way. Plus, there are a lot of things from the stock dictionary that I'm still cleaning out that I never use. Anything with a consistent pattern is a pretty clear indication of something I use regularly, though. A whole bunch of entries with `SKPWE-` for "and we..." phrases is a strong signal that this is how I handle phrases that start with that.
+I continued my search, enventually finding an online PDF of the Philly Clinic Theory. There was also a stock dictionary for Philly on Stenovations' website of around 30,000 entries available for free download. With those resources, I started retraining to overwrite what I had learned from Phoenix. Philly is a much older theory that predates realtime so it is not as consistent in its handling of conflicts. After I got sufficiently advanced, I bought the Magnum Steno book to start my realtime training and that became my ultimate theory source of truth.
+
+If you have no exposure to Magnum Theory, I will tell you it is abstract. You will find things in there based on phonetics, on English spelling, or based on an arbitrary combo that are meant to be memorized as a shape. Accordingly, my current style of writing is a mish-mash of all of the above. My dictionaries were never meant to become a formalized theory and you should consider them as a guideline, and not absolute in any way. Plus, there are a lot of things from the stock dictionary that I'm still cleaning out that I never use.
+
+So keep all this in mind. If there are several definitions for anything, look for a consistent pattern across multiple entries. It's is a pretty clear indication of a paradigm I use regularly. A whole bunch of entries with `SKPWE-` for "and we..." phrases is a strong signal that this is how I handle phrases that start with that.
+
+Also, if out of all the entries there is a single-stroke way of writing it, 95/100 times that'll be the one I employ most often.
 
 # ✨ Theory Notes ✨
 
@@ -89,32 +95,60 @@ These may be combined with phrase enders in grammatically correct combinations.
 Likewise, you may combine these with grammatical phrase beginners to form phrases.
 - *i.e. `SKPWRE-` (because we) + `-FRBGD` (could be) => `SKPWREFRBGD` (because we could be).*
 
-| Phrase        | Steno    | Phrase         | Steno    |
-| ------------- | -------- | -------------- | -------- |
-| been          | `-B`     | some           | `*PLS`   |
-| be            | `*B`     | could          | `-BGD`   |
-| it            | `*T`     | couldn't       | `*BGD`   |
-| like          | `-FPL`   | could be       | `-FRBGD` |
-| the           | `-T`     | have           | `-F`     |
-| that          | `-LGTS`  | 've            | `*F`     |
-| this          | `-TSDZ`  | have been      | `-FB`    |
-| these         | `-RPG`   | 've been       | `*FB`    |
-| those         | `-FBL`   | has            | `-FPLTD` |
-| can           | `-BG`    | hasn't         | `*FPLTD` |
-| can't         | `*BG`    | had            | `-D`     |
-| can be        | `-FRBG`  | 'd             | `*D`     |
-| means         | `-PLS`   | should         | `-RBD`   |
-| should be     | `-RBLG`  | do             | `RPBLGS` |
-| was           | `-FS`    | don't          | `*RPBLGS`|
-| wasn't        | `-FSZ`   | did            | `RPLS`   |
-| were          | `-RP`    | didn't         | `*RPLS`  |
-| weren't       | `*RP`    | does           | `-RBGZ`  |
-| we            | `-FRPBLG`| doesn't        | `*RBGZ`  |
-| would         | `-LD`    | will           | `-L`     |
-| 'd be         | `*BD`    | 'll            | `*L`     |
-| wouldn't      | `*LD`    | won't          | `-FPZ`   |
-| would have    | `*FLD`   | won't be       | `*FPZ`   |
-| would have been| `*FBLD` | knew           | `-PZ`    |
+## Right-hand Phrase Enders
+
+| Phrase             | Steno     | Phrase              | Steno     | Phrase           | Steno     |
+| ------------------ | --------- | ------------------- | --------- | ---------------- | --------- |
+| be                 | `*B`      | could be            | `-FRBGD`  | 'll              | `*L`      |
+| been               | `-B`      | did                 | `RPLS`    | like             | `-FPL`    |
+| believe            | `-BL`     | didn't              | `*RPLS`   | many             | `-PL`     |
+| believed           | `-BLD`    | do                  | `RPBLGS`  | means            | `-PLS`    |
+| can                | `-BG`     | doesn't             | `*RBGZ`   | much             | `-UFP`    |
+| can't              | `*BG`     | don't               | `*RPBLGS` | remembered       | `-RPLD`   |
+| can be             | `-FRBG`   | found               | `-FBD`    | remember         | `-RPL`    |
+| could              | `-BGD`    | get                 | `-GT`     | should           | `-RBD`    |
+| couldn't           | `*BGD`    | go                  | `-G`      | should be        | `-RBLG`   |
+| find               | `-FPBD`   | got                 | `-GTD`    | some             | `*PLS`    |
+| had                | `-D`      | had been            | `-FBS`    | that             | `-LGTS`   |
+| hasn't             | `*FPLTD`  | have                | `-F`      | the              | `-T`      |
+| have been          | `-FB`     | 've                 | `*F`      | their            | `-BLS`    |
+| 've been           | `*FB`     | have been           | `-FB`     | thing            | `-FRLG`   |
+| has                | `-FPLTD`  | it                  | `*T`      | think            | `-PBG`    |
+| have               | `-F`      | it                  | `*T`      | this             | `-TSDZ`   |
+| it                 | `*T`      | knew                | `-PZ`     | these            | `-RPG`    |
+| it                 | `*T`      | liked               | `-FLD`    | those            | `-FBL`    |
+| know               | `-PZ`     | much                | `-UFP`    | thought          | `-LGT`    |
+| liked              | `-FLD`    | remember            | `-RPL`    | was              | `-FS`     |
+| liked              | `-FLD`    | remembered          | `-RPLD`   | wasn't           | `-FSZ`    |
+| many               | `-PL`     | should              | `-RBD`    | were             | `-RP`     |
+| remember           | `-RPL`    | should be           | `-RBLG`   | weren't          | `*RP`     |
+| remembered         | `-RPLD`   | some                | `*PLS`    | we               | `-FRPBLG` |
+| should             | `-RBD`    | that                | `-LGTS`   | will             | `-L`      |
+| should be          | `-RBLG`   | the                 | `-T`      | 'll              | `*L`      |
+| some               | `*PLS`    | their               | `-BLS`    | won't            | `-FPZ`    |
+| that               | `-LGTS`   | of their            | `-FBLS`   | won't be         | `*FPZ`    |
+| the                | `-T`      | their               | `-BLS`    | would            | `-LD`     |
+| their              | `-BLS`    | thing               | `-FRLG`   | would have       | `*FLD`    |
+| thing              | `-FRLG`   | those               | `-FBL`    | would have been  | `*FBLD`   |
+| this               | `-TSDZ`   | thought             | `-LGT`    | wouldn't         | `*LD`     |
+| these              | `-RPG`    | was                 | `-FS`     | 'd be            | `*BD`     |
+| those              | `-FBL`    | wasn't              | `-FSZ`    |                  |           |
+| thought            | `-LGT`    | were                | `-RP`     |                  |           |
+| was                | `-FS`     | weren't             | `*RP`     |                  |           |
+| wasn't             | `-FSZ`    | we                  | `-FRPBLG` |                  |           |
+| were               | `-RP`     | will                | `-L`      |                  |           |
+| weren't            | `*RP`     | 'll                 | `*L`      |                  |           |
+| we                 | `-FRPBLG` | won't               | `-FPZ`    |                  |           |
+| will               | `-L`      | won't be            | `*FPZ`    |                  |           |
+| 'll                | `*L`      | would               | `-LD`     |                  |           |
+| won't              | `-FPZ`    | would have          | `*FLD`    |                  |           |
+| won't be           | `*FPZ`    | would have been     | `*FBLD`   |                  |           |
+| would              | `-LD`     | wouldn't            | `*LD`     |                  |           |
+| would have         | `*FLD`    | 'd be               | `*BD`     |                  |           |
+| would have been    | `*FBLD`   |                     |           |                  |           |
+| wouldn't           | `*LD`     |                     |           |                  |           |
+| 'd be              | `*BD`     |                     |           |                  |           |
+
 
 ## "Don't", "Didn't," "Could't"
 
