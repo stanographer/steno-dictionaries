@@ -67,7 +67,7 @@ In general, I use a ton of shape outlines. This is to say that the individual le
 
 # Left-hand Phrase Starters
 These may be combined with phrase enders in grammatically correct combinations.
-*i.e. `KP-` (keep) + `*T` (it) => `KP*T` (keep it).*
+- *i.e. `KP-` (keep) + `*T` (it) => `KP*T` (keep it).*
 
 | Phrase           | Steno       |
 | ---------------- | ----------- |
@@ -98,7 +98,7 @@ These may be combined with phrase enders in grammatically correct combinations.
 
 ## Right-hand Phrase Enders
 Likewise, you may combine these with grammatical phrase beginners to form phrases.
-*i.e. `SKPWRE-` (because we) + `-FRBGD` (could be) => `SKPWREFRBGD` (because we could be).*
+- *i.e. `SKPWRE-` (because we) + `-FRBGD` (could be) => `SKPWREFRBGD` (because we could be).*
 
 | Phrase        | Steno    | Phrase         | Steno    |
 | ------------- | -------- | -------------- | -------- |
